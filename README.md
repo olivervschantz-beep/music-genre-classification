@@ -29,3 +29,6 @@ The models were evaluated on a held-out test set (20% of data). **Random Forest*
 This project was developed as part of the course **ELEC-C5220** at Aalto University.
 * **Core Implementation:** The contents of the `src` directory (Model, Trainer, Signal Processing) represent my personal contribution.
 * **Framework:** The testing suite and project scaffolding were provided by the course instructors.
+
+## Detailed Analysis
+For a deep dive into the methodology, feature selection visualizations, and confusion matrices, please refer to the full **[Project Report](Project_Report.pdf)**.
